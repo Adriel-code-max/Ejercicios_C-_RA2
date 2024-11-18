@@ -1,0 +1,10 @@
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\bin\Debug\Desafio de formularios.exe.config
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\bin\Debug\Desafio de formularios.exe
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\bin\Debug\Desafio de formularios.pdb
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\obj\Debug\Desafio de formularios.csproj.AssemblyReference.cache
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\obj\Debug\Desafio_de_formularios.Form1.resources
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\obj\Debug\Desafio_de_formularios.Properties.Resources.resources
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\obj\Debug\Desafio de formularios.csproj.GenerateResource.cache
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\obj\Debug\Desafio de formularios.csproj.CoreCompileInputs.cache
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\obj\Debug\Desafio de formularios.exe
+C:\Users\IK\source\repos\Desafio de formularios\Desafio de formularios\obj\Debug\Desafio de formularios.pdb
