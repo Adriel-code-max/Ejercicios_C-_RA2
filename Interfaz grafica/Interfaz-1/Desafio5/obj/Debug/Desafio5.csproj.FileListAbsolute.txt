@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Desafio5\bin\Debug\Desafio5.exe.config
+C:\Users\HP\source\repos\Desafio5\bin\Debug\Desafio5.exe
+C:\Users\HP\source\repos\Desafio5\bin\Debug\Desafio5.pdb
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.Form1.resources
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.Properties.Resources.resources
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.exe
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.pdb
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.Form2.resources
+C:\Users\HP\source\repos\Desafio5\obj\Debug\Desafio5.Form3.resources
