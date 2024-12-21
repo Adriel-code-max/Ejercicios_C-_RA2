@@ -1,0 +1,30 @@
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.exe.config
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.exe
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.pdb
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.AssemblyReference.cache
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion_de_Reservas.Form1.resources
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion_de_Reservas.Properties.Resources.resources
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.GenerateResource.cache
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.CoreCompileInputs.cache
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.exe
+C:\Users\IK\Desktop\Github\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.pdb
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.exe.config
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.exe
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.pdb
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion_de_Reservas.Form1.resources
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion_de_Reservas.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.exe
+C:\Users\User\OneDrive\Escritorio\W-Form\W-Form\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.pdb
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.exe.config
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.exe
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\bin\Debug\Gestion de Reservas.pdb
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion_de_Reservas.Form1.resources
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion_de_Reservas.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.exe
+C:\Users\User\OneDrive\Escritorio\Interfaz Grafica\Interfaz Grafica\Gestion de Reservas\Gestion de Reservas\obj\Debug\Gestion de Reservas.pdb
