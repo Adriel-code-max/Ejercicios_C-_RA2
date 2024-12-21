@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Desafio GUI", "06-Desafio GUI.csproj", "{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC091CA-8D29-4FB1-8074-19DC703ECCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEEA2C6D-901D-4B43-91A3-218ADE7889A7}
+	EndGlobalSection
+EndGlobal
