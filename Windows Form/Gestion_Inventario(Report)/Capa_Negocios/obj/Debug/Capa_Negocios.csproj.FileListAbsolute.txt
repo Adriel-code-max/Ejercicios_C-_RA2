@@ -1,0 +1,9 @@
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\bin\Debug\Capa_Negocios.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\bin\Debug\Capa_Negocios.pdb
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\obj\Debug\Capa_Negocios.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\obj\Debug\Capa_Neg.9FBAC915.Up2Date
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\obj\Debug\Capa_Negocios.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Negocios\obj\Debug\Capa_Negocios.pdb
