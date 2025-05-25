@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Datos\obj\Debug\Capa_Datos.pdb
