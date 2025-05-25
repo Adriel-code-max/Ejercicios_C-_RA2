@@ -1,0 +1,154 @@
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Negocios.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Negocios.pdb
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmPrincipal.resources
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmCategorias.resources
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmProductos.resources
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmProveedores.resources
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmReporte.resources
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Ejercicios_C-_RA2-main\Windows Form\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe.config
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Presentacion.exe
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Presentacion.pdb
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Negocios.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Datos.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Negocios.pdb
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\Capa_Datos.pdb
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Form1.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmCategorias.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmClientes.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmProductos.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmProveedores.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmPrincipal.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Pre.6F14CCC0.Up2Date
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.exe
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.pdb
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmFacturacion.resources
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\PC\Desktop\Gestion_Inventario(Report)\Capa_Presentacion\obj\Debug\Capa_Presentacion.Forms.FrmFactura.resources
