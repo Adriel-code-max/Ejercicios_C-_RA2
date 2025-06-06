@@ -47,7 +47,7 @@ Bienvenido a mi espacio en GitHub. Soy estudiante de informática apasionado por
 
 ## 📫 ¿Quieres contactarme?
 
-- ✉️ adriel.penn@correo.com *(pon tu correo real si quieres)*
+- ✉️ adrielemanuelgarciapenn@gmail.com
 - 📍 República Dominicana  
 - 💬 También puedes escribirme por aquí en GitHub o dejar un issue 👇
 
